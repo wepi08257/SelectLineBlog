@@ -1,5 +1,5 @@
 {
-  "name": "selectlineblog",
+  "name": "satnaing-astro-paper",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
@@ -10,6 +10,6 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^2.10.7"
+    "astro": "^2.10.9"
   }
 }
